@@ -1,0 +1,25 @@
+.Footer {
+  display: flex;
+  background-color: #c2cc54;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.FooterA {
+  width: 25%;
+  padding: 5%;
+}
+#Logo {
+}
+.Schedule {
+}
+.Contact {
+}
+.Pd {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 5%;
+  align-items: flex-start;
+  border: 1px dotted black;
+  width: 50%;
+}
